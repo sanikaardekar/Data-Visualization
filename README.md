@@ -9,4 +9,4 @@ Conclusions: <br>
 3. Crunchie could make some changes in representing their brand, for example: packaging with more panache since the 18-24 ages would be quickly drawn in <br>
 4. KitKat is going very well with their 'have a break' campaign which resonates with their brand ranking. <br><br>
 #Power BI Projects<br><br>
- [to be added]
+ [to be added, files uploaded]
