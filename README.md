@@ -2,7 +2,7 @@
 <br>
 # Tableau Projects <br><br>
 Project 1 : Chocolate Brand Popularity Data Viz <br>
-Link to the Dashboard: https://public.tableau.com/app/profile/sanika4644/viz/week4_coursera/Dashboard1   <br>
+Link to the Dashboard: https://t.co/UkurrESp8Q   <br>
 Conclusions: <br>
 1. even though Twirl's brand ranking among various considered age groups isn't the highest it wins the most popular brand type <br>
 2. Dairy milk is very popular with the ages 65+ which states that the older generation enjoys soft and less fancy chocolates. <br>
