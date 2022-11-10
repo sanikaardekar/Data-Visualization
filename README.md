@@ -19,3 +19,5 @@ Project 4 : NCAA Revenue Report using Drill through fields (Workout Wednesday Ch
 Link to the Dashboard : https://bit.ly/3sEH1yJ <br>
 Project 5 : Cat or Croissant Game - DAX (Workout Wednesday Challenge Week 18) <br>
 Link to Dashboard : https://bit.ly/3Dt4APV <br>
+Project 6 : Error Bars (WoW Challenge week 28) <br>
+Link to Dashboard : http://bit.ly/3G5l6ZC <br>
