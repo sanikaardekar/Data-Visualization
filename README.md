@@ -22,4 +22,6 @@ Link to Dashboard : https://bit.ly/3Dt4APV <br>
 Project 6 : Error Bars (WoW Challenge week 28) <br>
 Link to Dashboard : http://bit.ly/3G5l6ZC <br>
 Project 7 : Connected Scatterplot for fuel price and travel in the US (WoW challenge week 31)<br>
-Link to Dashboard : http://bit.ly/3A5VQ1y <br>
+Link to Dashboard : http://bit.ly/3A5VQ1y <br><br>
+Project 8: Hotel Revenue, trends analysis<br>
+Link to Dashboard : http://bit.ly/3O5WLoy<br>
