@@ -25,3 +25,11 @@ Project 7 : Connected Scatterplot for fuel price and travel in the US (WoW chall
 Link to Dashboard : http://bit.ly/3A5VQ1y <br><br>
 Project 8: Hotel Revenue, trends analysis {SQL +Power BI}<br>
 Link to Dashboard : http://bit.ly/3O5WLoy<br>
+Description: I used a demo excel file which contains data on two types of hotels. I used SQL commands to import the data into Power BI. I used SQL queries like SELECT, LEFT JOIN, and GROUP BY for this project. <br>
+I focused on three main questions for arriving at my dashboard:<br>
+1) is the hotel revenue growing by year? <br>
+→ we have two types of hotel types so it would be good to segment revenue by hotel type and analyse<br>
+2) should we increase our parking lot size?<br>
+→ the parking percentage is roughly the same in 2018 and 2019 and hence it is difficult to determine if increasing parking space would be a good option or not.<br>
+3) Explore trends in data and display facts and figures<br>
+→ interactive dashboard <br>
