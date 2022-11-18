@@ -22,7 +22,9 @@ Link to Dashboard : https://bit.ly/3Dt4APV <br>
 Project 6 : Error Bars (WoW Challenge week 28) <br>
 Link to Dashboard : http://bit.ly/3G5l6ZC <br>
 Project 7 : Connected Scatterplot for fuel price and travel in the US (WoW challenge week 31)<br>
-Link to Dashboard : http://bit.ly/3A5VQ1y <br><br>
+Link to Dashboard : http://bit.ly/3A5VQ1y <br>
+Description: I learnt and used plotlyJS to make this visualisation. The dataset used is from demo data. 
+A connected scatterplot is a combination of a line plot and a scatterplot. They help us summarize trends and label them as required. <br><br>
 Project 8: Hotel Revenue, trends analysis {SQL +Power BI}<br>
 Link to Dashboard : http://bit.ly/3O5WLoy<br>
 Description: I used a demo excel file which contains data on two types of hotels. I used SQL commands to import the data into Power BI. I used SQL queries like SELECT, LEFT JOIN, and GROUP BY for this project. <br>
