@@ -20,10 +20,10 @@ Link to the Dashboard : https://bit.ly/3sEH1yJ <br>
 Project 5 : Cat or Croissant Game - DAX (Workout Wednesday Challenge Week 18) <br>
 Link to Dashboard : https://bit.ly/3Dt4APV <br>
 Project 6 : Error Bars (WoW Challenge week 28) <br>
-Link to Dashboard : http://bit.ly/3G5l6ZC <br>
+Link to Dashboard : http://bit.ly/3G5l6ZC <br><br>
 Project 7 : Connected Scatterplot for fuel price and travel in the US (WoW challenge week 31)<br>
 Link to Dashboard : http://bit.ly/3A5VQ1y <br>
-Description: I learnt and used plotlyJS to make this visualisation. The dataset used is from demo data. 
+Description: I learnt and used plotlyJS to make this visualisation. The dataset used is from [demo data](https://raw.githubusercontent.com/vega/vega/main/docs/data/driving.json). 
 A connected scatterplot is a combination of a line plot and a scatterplot. They help us summarize trends and label them as required. <br><br>
 Project 8: Hotel Revenue, trends analysis {SQL +Power BI}<br>
 Link to Dashboard : http://bit.ly/3O5WLoy<br>
