@@ -12,9 +12,11 @@ Conclusions: <br>
 Project 1 : Chocolate Company Sales and Trends<br>
 Link to the Dashboard: https://bit.ly/3TTcNUU <br>
 Project 2 : Creating a Waterfall Pipeline (Workout Wednesday Challenge Week 38 '22) <br>
-Link to the Dashboard: https://bit.ly/3gPp4uH <br>
+Link to the Dashboard: https://bit.ly/3gPp4uH <br><br>
 Project 3 : Custom Page Navigation and Report for Food Waste (Workout Wednesday Challenge Week 2 '22) <br>
 Link to the Dashboard : https://bit.ly/3gNMgJQ  <br>
+Description: I learnt custom navigation using Power BI. This report gives us a summary of food wastage from all aspects from its generation, cause, how to monitor the data using interactive dashboard and its possible prevention solutions. Demo data used from https://refed.org/<br><br>
+
 Project 4 : NCAA Revenue Report using Drill through fields (Workout Wednesday Challenge Week 1,2,3,4 2021)<br>
 Link to the Dashboard : https://bit.ly/3sEH1yJ <br>
 Project 5 : Cat or Croissant Game - DAX (Workout Wednesday Challenge Week 18) <br>
