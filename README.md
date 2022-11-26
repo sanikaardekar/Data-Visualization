@@ -49,6 +49,6 @@ I focused on three main questions for arriving at my dashboard:<br>
 3) Explore trends in data and display facts and figures<br>
 → interactive dashboard <br><br>
 
-Project 9: Visualisation of Diamond price prediction using KNN Regression model.<br>
+Project 9: Visualisation of Diamond price prediction using K Neighbour Regression model.<br>
 Link to Dashboard: http://bit.ly/3XL2VyO <br>
 Description: 
