@@ -51,4 +51,6 @@ I focused on three main questions for arriving at my dashboard:<br>
 
 Project 9: Visualisation of Diamond price prediction using K Neighbours Regression model.<br>
 Link to Dashboard: http://bit.ly/3XL2VyO <br>
-Description: 
+Description: used the diamond price dataset to predict price of diamonds using various regression models. Best results were obtained from KNN Regression model.<br>
+Integrated the python script with Power BI to visualise the gap between actual price and predicted price taking into consideration all the mentioned parameters like cut, colour, clarity. Prediction error can also be adjusted in range from 0-5000. <br>
+
